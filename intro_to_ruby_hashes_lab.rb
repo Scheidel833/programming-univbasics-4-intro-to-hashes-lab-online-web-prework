@@ -14,7 +14,12 @@ def   id_generator
   {:id => 2}
 end
 
-def my_hash_creator
+def my_hash_creator(hash, key)
+   {key => value}
+ end
+ 
+ def read_from_hash(hash, key)
+   hash[ke]
   # return a hash with a key :id assigned to positive integer
 end
 

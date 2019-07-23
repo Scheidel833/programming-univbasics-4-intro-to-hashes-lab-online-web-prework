@@ -16,11 +16,13 @@ end
 
 def my_hash_creator(hash, key)
    {key => value}
- end
+end
  
  def read_from_hash(hash, key)
-   hash[ke]
-  # return a hash with a key :id assigned to positive integer
+   hash[key]
+
+
+end  # return a hash with a key :id assigned to positive integer
 end
 
 def my_hash_creator(key, value)
